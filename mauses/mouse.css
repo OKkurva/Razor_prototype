@@ -1,0 +1,41 @@
+h1{
+    color: rgb(174, 245, 235);
+    font-weight: bold;
+    font-size: 35px;
+    font-family: 'Varela Round', sans-serif;
+    text-align: center;
+    border: 1px solid green;
+    box-sizing: border-box;
+    border-radius: 15px;
+    padding: 5px 15px;
+    
+
+       
+}
+p{
+    color:rgb(67, 179, 15);
+    font-size: 30px;
+    font-family: 'Saira Condensed', sans-serif;
+    text-indent: 50px;
+    background-color: rgba(0,0,0,0.5)
+    
+}
+body{
+    background-color:black;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+.Mouse{
+    max-height:500px;
+    max-width:500px;
+    margin: 0 auto;
+    display: block;
+}
+
+.img-wrapper{
+    display: flex;
+    align-items: center;
+    height:400px;
+    justify-content: space-around   
+}
